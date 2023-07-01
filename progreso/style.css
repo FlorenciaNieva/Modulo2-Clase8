@@ -1,0 +1,13 @@
+.barra {
+    background-color: #d0cece;
+    height: 30px;
+    width: 500px;
+    margin: 20px;
+    border-radius: 20px;
+    padding: 3px;
+}
+.progreso {
+    background-color: #19cf20;
+    height: 30px;
+    border-radius: 15px;
+}
